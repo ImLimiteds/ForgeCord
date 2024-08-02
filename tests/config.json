@@ -1,0 +1,34 @@
+{
+  "token": "TOKEN",
+  "intents": "all",
+  "prefix": "&",
+  "commands": {
+    "info": {
+      "response": {
+        "embed": {
+          "title": "info",
+          "description": "This is a bot made by a person who has no idea what they are doing.",
+          "color": "BLUE",
+          "fields": [
+            {
+              "name": "Version",
+              "value": "Beta!",
+              "inline": true
+            },
+            {
+              "name": "**Powered By CyberForge**",
+              "value": " ",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "Made by CyberForge",
+            "icon_url": "https://files.catbox.moe/pwfhjw.ico"
+          }
+        },
+        "reply": true
+      },
+      "description": "Get information about the bot."
+    }
+  }
+}

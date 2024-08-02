@@ -1,0 +1,11 @@
+setup.py
+forgecord/__init__.py
+forgecord/bot.py
+forgecord/command_handler.py
+forgecord/config.py
+forgecord.egg-info/PKG-INFO
+forgecord.egg-info/SOURCES.txt
+forgecord.egg-info/dependency_links.txt
+forgecord.egg-info/requires.txt
+forgecord.egg-info/top_level.txt
+tests/test_forgecord.py
