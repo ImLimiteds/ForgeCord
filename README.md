@@ -1,18 +1,3 @@
-Metadata-Version: 2.1
-Name: forgecord
-Version: 0.1.0
-Summary: A Discord API wrapper using JSON for configuration.
-Home-page: https://github.com/ImLimiteds/ForgeCord
-Author: Owen Pink
-Author-email: owenpink@proton.me
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
-Description-Content-Type: text/markdown
-License-File: LICENSE
-Requires-Dist: discord.py>=2.0.0
-
 
 # **ForgeCord** | Discord Made Simple
 

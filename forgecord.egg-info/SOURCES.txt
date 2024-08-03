@@ -1,8 +1,9 @@
+LICENSE
+README.md
 setup.py
 forgecord/__init__.py
 forgecord/bot.py
 forgecord/command_handler.py
-forgecord/config.py
 forgecord.egg-info/PKG-INFO
 forgecord.egg-info/SOURCES.txt
 forgecord.egg-info/dependency_links.txt
