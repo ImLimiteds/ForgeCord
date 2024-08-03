@@ -10,7 +10,7 @@
 
 ## Installation 
 
-`pip install forgecord`
+`pip install git+https://github.com/ImLimiteds/ForgeCord.git`
 
 
 ## Usage
