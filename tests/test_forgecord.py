@@ -1,3 +1,3 @@
 import forgecord
 
-forgecord.start_bot('config.json')
+forgecord.start('config.json')
